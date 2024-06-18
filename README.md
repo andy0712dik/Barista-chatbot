@@ -1,6 +1,6 @@
 # Barista-chatbot
 **Here we are developed a chat bot named Barista**
-wok=rking of chatbot 
+working of chatbot 
 step 1: first of all bot asked the name of customer who are coming in coffee shoppe
 if the person name == "Loki"
 it'll says get out loki and stop the program.
